@@ -1,8 +1,8 @@
 #Your code here
 #You can import some modules or create additional functions
+from typing import List
 
-
-def checkio(maze_map):
+def checkio(maze_map: List[List[int]]) -> str:
     #replace this for solution
     #This is just example for first maze
     return "SSSSSEENNNEEEEEEESSWWWWSSSEEEESS"
